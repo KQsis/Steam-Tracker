@@ -11,6 +11,7 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-primary">
     <a class="navbar-brand" href="#">Steam Tracker</a>
-
+</nav>
+<div class="row"></div>
 </body>
 </html>
